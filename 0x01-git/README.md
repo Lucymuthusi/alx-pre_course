@@ -11,3 +11,4 @@ Create a file bash/alx with these two lines inside: #!/bin/bash and echo "ALX"
 Create a file bash/school with these two lines inside: #!/bin/bash and echo "School"
 Add all these new files to git
 Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
+Time for an update
